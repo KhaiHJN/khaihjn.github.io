@@ -1,0 +1,82 @@
+body{
+    background-color: #333333;
+}
+#siden{
+    max-width: 1000px;
+    min-width: 1000px;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 32px;
+    text-align: left;
+}
+#banner{
+    position: relative;
+}
+#meny{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+#meny1{
+    float: left;
+}
+#meny1 a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#meny1 a:hover{
+    background-color: #111;
+}
+#tittel{
+    font-size: 250%;
+}
+#underTittel{
+    position: relative;
+    top: -25px;
+    left: 25px;
+}
+#innhold{
+    position: relative;
+    left: 85px;
+    width: 850px;
+    top: -125px;
+}
+#innholdMeny{
+    width: 350px;
+    position: relative;
+    left: 100px;
+}
+#innholdTekst{
+    position: relative;
+    top: 25px;
+
+}
+#innholdTekst1{
+    position: relative;
+}
+#listMeny{
+    width: 165px;
+    border: #111111;
+    border-style: solid;
+}
+#Bilde{
+    position: absolute;
+    height: 250px;
+    overflow: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
