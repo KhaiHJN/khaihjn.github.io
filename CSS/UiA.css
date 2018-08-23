@@ -67,7 +67,8 @@ body{
 #Bilde{
     position: absolute;
     height: 250px;
-    overflow: auto;
+    left: 500px;
+    top: 25px;
 }
 
 
