@@ -123,9 +123,6 @@
     .content{
         padding: 0 30px;
     }
-    .empty2 {
-        height: 5vh;
-    }
 }
 @media (max-width: 868px) {
     body.disabled{
@@ -163,6 +160,11 @@
     }
     .navbar.show .menu-list li a{
         margin-left: 0px;
+    }
+}
+@media (max-width: 600px) {
+    .empty2 {
+        height: 5vh;
     }
 }
 @media (max-width: 380px) {
