@@ -161,6 +161,9 @@
     .navbar.show .menu-list li a{
         margin-left: 0px;
     }
+    .empty2 {
+        height: 10vh;
+    }
 }
 @media (max-width: 380px) {
     .navbar .logo a{
